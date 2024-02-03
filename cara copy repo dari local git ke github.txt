@@ -1,0 +1,2 @@
+buka repo baru di github, jangan tambahkan readme (repo kosong)
+ikuti instruksi di quick setup

@@ -1,0 +1,1 @@
+buka git fetch dulu sebelum melakukan git pull seperti yg disarankan gitBASH
