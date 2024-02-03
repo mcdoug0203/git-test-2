@@ -1,0 +1,2 @@
+gunakan "git push -u [nama remote] [nama branch di local]"
+contohnya git push -u origin main
